@@ -6,6 +6,7 @@
         "start": "node run"
     },
     "dependencies": {
-        "mysql": "*"
+        "db-mysql"    : "*",
+        "generic-pool": "*"
     }
 }
